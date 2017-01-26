@@ -1,0 +1,1 @@
+delete from SYSREMINDER where SYSREMINDER.GRUPPE = 'Krankenkassen';
